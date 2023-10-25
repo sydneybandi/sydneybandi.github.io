@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "name": "sydney_bandi_portfolio",
   "homepage": "https://sydneybandi.github.io",
   "version": "0.1.0",
