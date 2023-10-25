@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Sydney Bandi Portfolio",
     type: "website",
-    url: "https://sydneybandi.github.io/",
+    url: "https://sydneybandi.github.io",
   },
 };
 
